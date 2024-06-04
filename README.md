@@ -1,2 +1,2 @@
 # IBM-certificate
-Deposit for everything I create whilst doing the IBM Data Science Certificate
+Deposit for the exercises made whilst doing the IBM Data Science Certificate
